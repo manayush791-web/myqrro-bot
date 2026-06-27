@@ -21,7 +21,7 @@ dl() {
 dl "$BASE/poppins/Poppins-Regular.ttf"   "$DIR/Poppins-Regular.ttf"
 dl "$BASE/poppins/Poppins-SemiBold.ttf"  "$DIR/Poppins-SemiBold.ttf"
 dl "$BASE/poppins/Poppins-Bold.ttf"      "$DIR/Poppins-Bold.ttf"
-dl "$BASE/inter/static/Inter-Regular.ttf"       "$DIR/Inter-Regular.ttf"
-dl "$BASE/inter/static/Inter-SemiBold.ttf"      "$DIR/Inter-SemiBold.ttf"
+dl "$BASE/inter/static/Inter_18pt-Regular.ttf"       "$DIR/Inter-Regular.ttf"
+dl "$BASE/inter/static/Inter_18pt-SemiBold.ttf"      "$DIR/Inter-SemiBold.ttf"
 
 echo "✅  All fonts ready."
