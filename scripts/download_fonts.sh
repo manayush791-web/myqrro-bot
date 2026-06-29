@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # Download OFL-licensed Google Fonts used by the poster renderer.
 # Called automatically during Docker build (see Dockerfile).
-set -e
 
 DIR="$(dirname "$0")/../fonts"
 mkdir -p "$DIR"
